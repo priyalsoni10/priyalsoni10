@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 --> I am Priyal Soni 
---> Student of Mandsaur University ,Mandsaur
+--> Student of Computer Science Engineering
 🌱 I’m currently learning ...
 
